@@ -1,0 +1,6 @@
+Documentation:
+
+A) NPM modules used in this app:
+    1) validator: To Validate the input of the user
+    2) Chalk: To make the things more color for different indication
+    3) yargs: parsing arguments of the "process.argv". 
